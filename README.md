@@ -1,4 +1,6 @@
-# 👋 Hello world!
+#  Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# 👋 Hello world! 
+ I’m currently open to work Frontend developer
 ## 💻 Technology stack:
 - Javascript
 - Typescript
