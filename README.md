@@ -1,5 +1,7 @@
 #  Hi there, I'm Egor
  🌱 I’m currently open to work Frontend developer
+ How to reach me
+ [![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mougra)
 ## 💻 Technology stack:
 - Javascript
 - Typescript
@@ -11,8 +13,6 @@
 - Webpack
 - Git, Github
 - Npm
-
-[![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mougra)
 
 ***
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
