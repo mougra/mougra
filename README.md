@@ -13,13 +13,9 @@
 - Webpack
 - Git, Github
 - Npm
-
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mougra&layout=compact)](https://github.com/mougra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mougra)](https://github.com/mougra/github-readme-stats)
 ***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mougra&layout=compact)](https://github.com/mougra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mougra)](https://github.com/mougra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 
 <!--
