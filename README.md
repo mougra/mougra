@@ -1,16 +1,15 @@
 # 👋 Hello world!
-***
 ## 💻 Technology stack:
-- 🔹Javascript
-- 🔹Typescript
-- 🔹React
-- 🔹Redux (Redux-toolkit, RTK Query)
-- 🔹CSS (SCSS, BEM), Tailwind
-- 🔹HTML
-- 🔹REST API (fetch, axios) 
-- 🔹Webpack
-- 🔹Git, Github
-- 🔹Npm
+- Javascript
+- Typescript
+- React
+- Redux (Redux-toolkit, RTK Query)
+- CSS (SCSS, BEM), Tailwind
+- HTML
+- REST API (fetch, axios) 
+- Webpack
+- Git, Github
+- Npm
 
 <!--
 **mougra/mougra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
