@@ -12,7 +12,7 @@
 - Git, Github
 - Npm
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://t.me/mougra](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ***
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
