@@ -12,9 +12,9 @@
 - Git, Github
 - Npm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/mougra&layout=compact)](https://github.com/mougra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mougraanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mougra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mougra=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 
