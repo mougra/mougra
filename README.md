@@ -13,6 +13,9 @@
 - Git, Github
 - Npm
 
+***
+[![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
+
 <!--
 **mougra/mougra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
