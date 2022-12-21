@@ -12,9 +12,8 @@
 - Git, Github
 - Npm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/mougraanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/mougra=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 
