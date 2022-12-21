@@ -1,6 +1,5 @@
-#  Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
-# 👋 Hello world! 
- I’m currently open to work Frontend developer
+#  Hi there, I'm Egor
+ 🌱 I’m currently open to work Frontend developer
 ## 💻 Technology stack:
 - Javascript
 - Typescript
@@ -13,6 +12,7 @@
 - Git, Github
 - Npm
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mougra=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 
