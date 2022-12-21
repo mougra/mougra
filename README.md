@@ -14,10 +14,11 @@
 - Git, Github
 - Npm
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mougra&layout=compact)](https://github.com/mougra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mougra)](https://github.com/mougra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mougra&layout=compact)](https://github.com/mougra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/mougra/badges/large)](https://www.codewars.com/users/mougra)
 <!--
 **mougra/mougra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
