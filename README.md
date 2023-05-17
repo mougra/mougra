@@ -1,7 +1,7 @@
 #  Hi there
  - 🌱 I’m currently open to work Frontend developer
- - How to reach me 
- [![t.me]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png))](https://t.me/mougra)
+ - :page_facing_up: My CV_Resume [![Figma](https://github-readme-stats.vercel.app/api?username=mougra)](https://[github.com/mougra/github-readme-stats](https://www.figma.com/file/XSUq2UfTn3ECIguBTezRPo/%D0%95%D0%B3%D0%BE%D1%80-CV%2FResume-(Copy)?type=design&node-id=3-354&t=xHOeeo7BgbL6WcIG-0))
+ - How to reach me  [![t.me]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png))](https://t.me/mougra)
 ## 💻 Technology stack:
 - Javascript (ES6)
 - Typescript
