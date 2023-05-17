@@ -1,13 +1,13 @@
 #  Hi there
  - 🌱 I’m currently open to work Frontend developer
  - How to reach me 
- [![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mougra)
+ [![t.me]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png))](https://t.me/mougra)
 ## 💻 Technology stack:
-- Javascript
+- Javascript (ES6)
 - Typescript
 - React
-- Redux (Redux-toolkit, RTK Query)
-- CSS (SCSS, BEM), Tailwind
+- Redux (Redux-toolkit)
+- CSS (SCSS), Tailwind, Styled-components
 - HTML
 - REST API (fetch, axios) 
 - Webpack
