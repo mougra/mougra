@@ -6,9 +6,10 @@
 - Javascript (ES6)
 - Typescript
 - React
-- Redux (Redux-toolkit)
+- Redux (Redux-toolkit, rtk-query)
 - CSS (SCSS), Tailwind, Styled-components
 - HTML
+- React Bootstrap
 - REST API (fetch, axios) 
 - Webpack
 - Git, Github
