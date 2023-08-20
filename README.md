@@ -1,6 +1,6 @@
 #  Hi there
  - 🌱 I’m currently open to work Frontend developer
- - :page_facing_up: Know about my experiences [CV_Resume in Figma](https://www.figma.com/file/XSUq2UfTn3ECIguBTezRPo/%D0%95%D0%B3%D0%BE%D1%80-CV%2FResume-(Copy)?type=design&node-id=3-354&t=xHOeeo7BgbL6WcIG-0)
+ - :page_facing_up: Know about my experiences [CV_Resume in Figma]([https://www.figma.com/file/XSUq2UfTn3ECIguBTezRPo/%D0%95%D0%B3%D0%BE%D1%80-CV%2FResume-(Copy)?type=design&node-id=3-354&t=xHOeeo7BgbL6WcIG-0](https://www.figma.com/file/liaoUuRzFDVPQdMu3LZFCd/%D0%95%D0%B3%D0%BE%D1%80-CV%2FResume-(Copy)?type=design&node-id=3-354&mode=design&t=EAtu2nlPLImn0mr9-0))
  - Reach me by [![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mougra)
 ## 💻 Technology stack:
 - Javascript (ES6)
